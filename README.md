@@ -1,4 +1,4 @@
-# ConflictNet
+# H2H
 
 This project aims to develop and compare deep learning models for conflict forecasting. The models here scrutenized are of the ConflictNet architecture based on recurrent U-net architecture.
 
