@@ -1,6 +1,8 @@
-# H2H
+# Anticipating Escalation: Actionable Insights with Actor-Embeddings and Transformers in Conflict Forecasting
 
-This project aims to develop and compare deep learning models for conflict forecasting. The models here scrutenized are of the ConflictNet architecture based on recurrent U-net architecture.
+Formerly known as "From Headlines to Hotspots: Mapping Violent Conflict with Deep Learning and News Text". Maybe the title will change back and maybe it will be something else... We'll see.
+
+Project description to come.
 
 ## Folder Structure
 
