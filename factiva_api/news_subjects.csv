@@ -1,0 +1,29 @@
+code,description,
+GAIRF,Air Force,X
+GDEF,Armed Forces,X
+GCOUP,Armed Rebellion,X
+GARMY,Army,X
+GCIVDS,Civil Unrest,X
+GDEATH,Death Penalty/Capital Punishment,X
+GPOL,Domestic Politics,X
+GDRUG,Drug Trafficking/Dealing,X
+GVOTE,Elections,X
+GGLOBE,Global/World Issues,X
+GIMM,Human Migration,X
+GHUM,Human Rights/Civil Liberties,X
+GDIP,International Relations,X
+GESANC,International Sanctions,X
+GKDNAP,Kidnapping/Abduction,X
+GVIO,Military Action,X
+GMURD,Murder/Manslaughter,X
+GNTDIS,Natural Disasters/Catastrophes,X
+NSUM,News Digests,X
+GCAT,Political/General News,X
+GPIR,Politics/International Relations,X
+GRISK,Risk News,X
+GROBB,Robbery,X
+GSHOO,Shooting,X
+GSEC,State Security Measures/Policies,X
+GTERR,Terrorism,X
+GTORTU,Torture,X
+GWAR,War Crimes,X
