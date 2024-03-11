@@ -34,8 +34,11 @@ Practitioners are experimenting with their own **early warning systems**
 ---
 ![bg 100%  right:22%](west2.png)
 
-[But most, if not all, current approaches have one **detrimental feature** in common...
-](/home/simon/Documents/scripts/conflictNet/reports/timelapse/feature0/example_timelapse.mp4)
+But most, if not all, current approaches have one **detrimental feature** in common: **inertia**.
+
+---
+
+<img src="timelapse.gif" alt="My cool gif">
 
 
 ---
